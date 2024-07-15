@@ -1,0 +1,16 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+.cell {
+  background-color: whitesmoke;
+}
+.hover {
+  background-color: lightblue;
+}
+.reset {
+  position: absolute;
+  margin: auto;
+  left: 50%;
+}
